@@ -35,7 +35,11 @@ This is a backend api for creating questions and adding options to a specific qu
 | PUT        | /options/:id/add_vote              | To increase the count of votes         |
 | GET        | /questions/:id                     | To view a question and its options     |
 
-## Tech stack
+## Tech 
 * NodeJS
 * ExpressJS
 * MongoDB
+
+## Authors
+
+- [@manishmeena022](https://www.github.com/manishmeena022)
